@@ -10,7 +10,7 @@ Contributions are more than welcome.
 * [Circular](https://github.com/julien-c/Circular) • [http://circular.io/]() • An open source Buffer clone. (PHP, JavaScript)
 * [Formspree](https://github.com/formspree/formspree) • [https://formspree.io/]() • Easy HTML forms without PHP or JavaScript. (Python, JavaScript)
 * [Helpy](https://github.com/helpyio/helpy) • [https://helpy.io]() • Helpy is a modern, "mobile-first" helpdesk application. (Ruby)
-* [Journmail](https://github.com/shime/journmail) • [https://journmail.com]() • Teach yourself consistency by keeping a journal and writing one sentence per day in it. (Ruby)
+* [Journmail](https://github.com/shime/journmail) • [https://journmail.com]() • Teach yourself consistency by writing one sentence per day. (Ruby)
 * [Kap](https://github.com/wulkano/kap) • [https://getkap.co/]() • An open-source screen recorder built with web technology. (JavaScript)
 * [Manta](https://github.com/hql287/Manta) • [https://manta.life/]() • Flexible invoicing desktop app with beautiful & customizable templates. (JavaScript)
 * [Restya](https://github.com/RestyaPlatform/board/) • [http://restya.com/board/]() • Trello like Kanban board. (JavaScript)
