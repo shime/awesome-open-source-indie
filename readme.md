@@ -18,6 +18,7 @@ Contributions are more than welcome.
 * [Learn Anything](https://github.com/learn-anything/learn-anything) • [https://learn-anything.xyz/](https://learn-anything.xyz/) • Open Source website to search Interactive Maps. (JavaScript, React.js)
 * [Manta](https://github.com/hql287/Manta) • [https://manta.life/](https://manta.life/) • Flexible invoicing desktop app with beautiful & customizable templates. (JavaScript)
 * [Restya](https://github.com/RestyaPlatform/board/) • [http://restya.com/board/](http://restya.com/board/) • Trello like Kanban board. (JavaScript)
+* [webhook](https://github.com/adnanh/webhook/) • Incoming webhook server to execute shell commands (Golang)
 * [Zapsnap](https://github.com/twobucks/zapsnap) • [https://zapsnap.io](https://zapsnap.io) • Temporary peer to peer screenshot sharing from your browser. (JavaScript)
 
 
