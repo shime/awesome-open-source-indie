@@ -17,7 +17,6 @@ Contributions are more than welcome.
 * [Kap](https://github.com/wulkano/kap) • [https://getkap.co/](https://getkap.co/) • An open-source screen recorder built with web technology. (JavaScript)
 * [Learn Anything](https://github.com/learn-anything/learn-anything) • [https://learn-anything.xyz/](https://learn-anything.xyz/) • Open Source website to search Interactive Maps. (JavaScript, React.js)
 * [Manta](https://github.com/hql287/Manta) • [https://manta.life/](https://manta.life/) • Flexible invoicing desktop app with beautiful & customizable templates. (JavaScript)
-* [ntfy](https://github.com/dschep/ntfy) • [https://ntfy.readthedocs.io/](https://ntfy.readthedocs.io/) • Desktop & push notification integration for your command line. (Python)
 * [Restya](https://github.com/RestyaPlatform/board/) • [http://restya.com/board/](http://restya.com/board/) • Trello like Kanban board. (JavaScript)
 * [Zapsnap](https://github.com/twobucks/zapsnap) • [https://zapsnap.io](https://zapsnap.io) • Temporary peer to peer screenshot sharing from your browser. (JavaScript)
 
