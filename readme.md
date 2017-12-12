@@ -1,5 +1,7 @@
 # Awesome Open Source Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![/awesome-open-source-indie.svg](/awesome-open-source-indie.svg)
+
 A curated list of small independent active open source products.
 
 No frameworks, no curated lists, no templates, just small open source products.
