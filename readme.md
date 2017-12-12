@@ -4,7 +4,7 @@
 
 A curated list of small independent active open source products.
 
-No libraries, no frameworks, no curated lists, no templates, just small open source products.
+No CLI tools, no libraries, no frameworks, no curated lists, no templates, just small open source products.
 
 Contributions are more than welcome.
 
