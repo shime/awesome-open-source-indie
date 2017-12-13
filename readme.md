@@ -18,6 +18,7 @@ Contributions are more than welcome.
 * [Kap](https://github.com/wulkano/kap) • [https://getkap.co/](https://getkap.co/) • An open-source screen recorder built with web technology. (JavaScript)
 * [Learn Anything](https://github.com/learn-anything/learn-anything) • [https://learn-anything.xyz/](https://learn-anything.xyz/) • Open Source website to search Interactive Maps. (JavaScript, React.js)
 * [Manta](https://github.com/hql287/Manta) • [https://manta.life/](https://manta.life/) • Flexible invoicing desktop app with beautiful & customizable templates. (JavaScript)
+* [Peek](https://github.com/phw/peek) • [https://github.com/phw/peek](https://github.com/phw/peek) • Simple animated GIF screen recorder with an easy to use interface. (Vala)
 * [Restya](https://github.com/RestyaPlatform/board/) • [http://restya.com/board/](http://restya.com/board/) • Trello like Kanban board. (JavaScript)
 * [Standard Notes](https://github.com/standardnotes/web) • •[https://standardnotes.org/](https://standardnotes.org/) • A simple and private notes app. (Ruby, JavaScript)
 * [Wallabag](https://github.com/wallabag/wallabag) • [https://wallabag.org/](https://wallabag.org/) • Save and classify articles. Read them later. Freely. (PHP)
