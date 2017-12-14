@@ -11,6 +11,7 @@ Contributions are more than welcome.
 * [Caprine](https://github.com/sindresorhus/caprine) • [https://sindresorhus.com/caprine/](https://sindresorhus.com/caprine/) • Elegant Facebook Messenger desktop app. (JavaScript)
 * [Circular](https://github.com/julien-c/Circular) • [http://circular.io/](http://circular.io/) • An open source Buffer clone. (PHP, JavaScript)
 * [Dones](https://github.com/aduth/dones) • [https://dones.today/](https://dones.today/) • Team task management and tracking application. (PHP, JavaScript)
+* [Errbit](https://github.com/errbit/errbit) • [https://errbit.com/](https://errbit.com/) • A tool for collecting and managing errors from other applications. (Ruby, JavaScript)
 * [Formspree](https://github.com/formspree/formspree) • [https://formspree.io/](https://formspree.io/) • Easy HTML forms without PHP or JavaScript. (Python, JavaScript)
 * [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) • [https://www.googleplaymusicdesktopplayer.com/](https://www.googleplaymusicdesktopplayer.com/) • A beautiful cross platform Desktop Player for Google Play Music. (JavaScript)
 * [Helpy](https://github.com/helpyio/helpy) • [https://helpy.io](https://helpy.io) • Helpy is a modern, "mobile-first" helpdesk application. (Ruby)
