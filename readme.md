@@ -21,6 +21,7 @@ Contributions are more than welcome.
 * [Manta](https://github.com/hql287/Manta) • [https://manta.life/](https://manta.life/) • Flexible invoicing desktop app with beautiful & customizable templates. (JavaScript)
 * [Passbolt](https://github.com/passbolt/passbolt_api) • [https://www.passbolt.com/](https://www.passbolt.com/) • Password management solution for teams. (PHP)
 * [Restya](https://github.com/RestyaPlatform/board/) • [http://restya.com/board/](http://restya.com/board/) • Trello like Kanban board. (JavaScript)
+* [Sentry](https://github.com/getsentry/sentry) • [https://sentry.io/](https://sentry.io) • Sentry is a cross-platform crash reporting and aggregation platform. (Python, JavaScript)
 * [Standard Notes](https://github.com/standardnotes/web) • •[https://standardnotes.org/](https://standardnotes.org/) • A simple and private notes app. (Ruby, JavaScript)
 * [Wallabag](https://github.com/wallabag/wallabag) • [https://wallabag.org/](https://wallabag.org/) • Save and classify articles. Read them later. Freely. (PHP)
 * [Zapsnap](https://github.com/twobucks/zapsnap) • [https://zapsnap.io](https://zapsnap.io) • Temporary peer to peer screenshot sharing from your browser. (JavaScript)
