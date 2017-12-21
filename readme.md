@@ -2,7 +2,7 @@
 
 ![/logo.svg](/logo.svg)
 
-A curated list of small independent active open source products.
+A curated list of small independent active open source **products**.
 
 No CLI tools, no libraries, no frameworks, no curated lists, no templates, just small open source products.
 
