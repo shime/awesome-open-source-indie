@@ -25,7 +25,7 @@ Contributions are more than welcome.
 * [Standard Notes](https://github.com/standardnotes/web) • •[https://standardnotes.org/](https://standardnotes.org/) • A simple and private notes app. (Ruby, JavaScript)
 * [Wallabag](https://github.com/wallabag/wallabag) • [https://wallabag.org/](https://wallabag.org/) • Save and classify articles. Read them later. Freely. (PHP)
 * [Zapsnap](https://github.com/twobucks/zapsnap) • [https://zapsnap.io](https://zapsnap.io) • Temporary peer to peer screenshot sharing from your browser. (JavaScript)
-
+* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) • [http://www.screentogif.com/](http://www.screentogif.com/) • Screen, webcam, and sketchboard recorder with an integrated editor. (C#)
 
 ## License
 
