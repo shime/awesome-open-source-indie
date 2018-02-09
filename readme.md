@@ -14,6 +14,7 @@ Contributions are more than welcome.
 * [Errbit](https://github.com/errbit/errbit) • [https://errbit.com/](https://errbit.com/) • A tool for collecting and managing errors from other applications. (Ruby, JavaScript)
 * [Formspree](https://github.com/formspree/formspree) • [https://formspree.io/](https://formspree.io/) • Easy HTML forms without PHP or JavaScript. (Python, JavaScript)
 * [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) • [https://www.googleplaymusicdesktopplayer.com/](https://www.googleplaymusicdesktopplayer.com/) • A beautiful cross platform Desktop Player for Google Play Music. (JavaScript)
+* [Goploader](https://github.com/Depado/goploader) • [https://gpldr.in](https://gpldr.in) • Easy file sharing with server-side encryption. Curl/Cli/WebUI. (Golang)
 * [Helpy](https://github.com/helpyio/helpy) • [https://helpy.io](https://helpy.io) • Helpy is a modern, "mobile-first" helpdesk application. (Ruby)
 * [Journmail](https://github.com/shime/journmail) • [https://journmail.com](https://journmail.com) • Teach yourself consistency by writing one sentence per day. (Ruby)
 * [Kap](https://github.com/wulkano/kap) • [https://getkap.co/](https://getkap.co/) • An open-source screen recorder built with web technology. (JavaScript)
