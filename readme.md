@@ -16,7 +16,6 @@ Contributions are more than welcome.
 * [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) • [https://www.googleplaymusicdesktopplayer.com/](https://www.googleplaymusicdesktopplayer.com/) • A beautiful cross platform Desktop Player for Google Play Music. (JavaScript)
 * [Goploader](https://github.com/Depado/goploader) • [https://gpldr.in](https://gpldr.in) • Easy file sharing with server-side encryption. Curl/Cli/WebUI. (Golang)
 * [Helpy](https://github.com/helpyio/helpy) • [https://helpy.io](https://helpy.io) • Helpy is a modern, "mobile-first" helpdesk application. (Ruby)
-* [Journmail](https://github.com/shime/journmail) • [https://journmail.com](https://journmail.com) • Teach yourself consistency by writing one sentence per day. (Ruby)
 * [Kap](https://github.com/wulkano/kap) • [https://getkap.co/](https://getkap.co/) • An open-source screen recorder built with web technology. (JavaScript)
 * [Learn Anything](https://github.com/learn-anything/learn-anything) • [https://learn-anything.xyz/](https://learn-anything.xyz/) • Open Source website to search Interactive Maps. (JavaScript, React.js)
 * [Manta](https://github.com/hql287/Manta) • [https://manta.life/](https://manta.life/) • Flexible invoicing desktop app with beautiful & customizable templates. (JavaScript)
@@ -25,8 +24,6 @@ Contributions are more than welcome.
 * [Sentry](https://github.com/getsentry/sentry) • [https://sentry.io/](https://sentry.io) • Sentry is a cross-platform crash reporting and aggregation platform. (Python, JavaScript)
 * [Standard Notes](https://github.com/standardnotes/web) • •[https://standardnotes.org/](https://standardnotes.org/) • A simple and private notes app. (Ruby, JavaScript)
 * [Wallabag](https://github.com/wallabag/wallabag) • [https://wallabag.org/](https://wallabag.org/) • Save and classify articles. Read them later. Freely. (PHP)
-* [Zapsnap](https://github.com/twobucks/zapsnap) • [https://zapsnap.io](https://zapsnap.io) • Temporary peer to peer screenshot sharing from your browser. (JavaScript)
-
 
 ## License
 
