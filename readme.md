@@ -16,6 +16,7 @@ Contributions are more than welcome.
 * [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) • [https://www.googleplaymusicdesktopplayer.com/](https://www.googleplaymusicdesktopplayer.com/) • A beautiful cross platform Desktop Player for Google Play Music. (JavaScript)
 * [Goploader](https://github.com/Depado/goploader) • [https://gpldr.in](https://gpldr.in) • Easy file sharing with server-side encryption. Curl/Cli/WebUI. (Golang)
 * [Helpy](https://github.com/helpyio/helpy) • [https://helpy.io](https://helpy.io) • Helpy is a modern, "mobile-first" helpdesk application. (Ruby)
+* [Kafdrop](https://github.com/obsidiandynamics/kafdrop) • [https://github.com/obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) • Open source web UI for browsing Kafka topics. (Java)
 * [Kap](https://github.com/wulkano/kap) • [https://getkap.co/](https://getkap.co/) • An open-source screen recorder built with web technology. (JavaScript)
 * [Learn Anything](https://github.com/learn-anything/learn-anything) • [https://learn-anything.xyz/](https://learn-anything.xyz/) • Open Source website to search Interactive Maps. (JavaScript, React.js)
 * [Manta](https://github.com/hql287/Manta) • [https://manta.life/](https://manta.life/) • Flexible invoicing desktop app with beautiful & customizable templates. (JavaScript)
