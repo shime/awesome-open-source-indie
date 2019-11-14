@@ -24,6 +24,8 @@ Contributions are more than welcome.
 * [Sentry](https://github.com/getsentry/sentry) • [https://sentry.io/](https://sentry.io) • Sentry is a cross-platform crash reporting and aggregation platform. (Python, JavaScript)
 * [Standard Notes](https://github.com/standardnotes/web) • •[https://standardnotes.org/](https://standardnotes.org/) • A simple and private notes app. (Ruby, JavaScript)
 * [Wallabag](https://github.com/wallabag/wallabag) • [https://wallabag.org/](https://wallabag.org/) • Save and classify articles. Read them later. Freely. (PHP)
+* [Spyse](https://spyse.com/) • OSINT search engine. Stored all the data in own DB to provide instant data access.
+Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technologies, OS, AS, wide SSL/TLS DB and more. 
 
 ## License
 
